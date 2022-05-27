@@ -1,0 +1,7 @@
+Default security after adding the spring security dependency
+
+login page : localhost:8080
+logout page: http://localhost:8080/logout
+
+Default username :user
+password: as printed in console
